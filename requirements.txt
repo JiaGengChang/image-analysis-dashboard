@@ -1,0 +1,10 @@
+dash==2.7.0
+matplotlib==3.6.2
+numpy==1.23.5
+opencv-python==4.6.0.66
+pandas==1.5.1
+plotly==5.11.0
+scikit-image==0.19.3
+scipy==1.9.3
+
+flaskwebgui~=1.0.3
