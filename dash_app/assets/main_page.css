@@ -1,0 +1,17 @@
+.nav-link{
+    color: white !important;
+    font-size: medium;
+}
+
+.navbar-brand{
+    color: white !important;
+    font-size: 2em;
+}
+
+.filter-dropdown{
+    color: black;
+}
+
+.uploader-div{
+    font-size: medium;
+}
