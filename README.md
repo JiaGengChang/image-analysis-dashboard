@@ -15,9 +15,9 @@ This windows application is lightweight (100mb), and uses scikit learn algorithm
 This internal tool is currently in use by our imaging technicians over at Hayward, Cambridge, United Kingdom.
 
 # Roles 
-Cao Fan (main developer): wrote the core plotting function (the `.ipynb`) with scikit-learn
+Cao Fan (algorithm developer): wrote the core plotting function (the `.ipynb`) with scikit-learn
 
-__Me__ (__Jia Geng__, main developer): developed the user interface of our desktop application with dash/plotly
+__Me__ (__Jia Geng__, data dashboard developer): developed the user interface of our desktop application with dash/plotly
 
 Daniel Martana (mentor developer): guided and provided Jia Geng with the dash/plotly template, presenter
 
