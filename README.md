@@ -12,8 +12,6 @@ We produce a desktop application that can annotate/analyse microbeads images, co
 
 This windows application is lightweight (100mb), and uses scikit learn algorithms to analyse both optical microscope images (colored) and scanning electron microscope (SEM) images.
 
-This internal tool is currently in use by our imaging technicians over at Hayward, Cambridge, United Kingdom.
-
 # Roles 
 Cao Fan (algorithm developer): wrote the core plotting function (the `.ipynb`) with scikit-learn
 
@@ -37,4 +35,7 @@ Johan Basuki: team lead
 ![](https://github.com/JiaGengChang/microimage/blob/main/micro-image-sem-demo.gif)
 
 # Results
+
 We won third place among 15 teams!
+
+This internal tool is currently in use by our imaging technicians over at Hayward, Cambridge, United Kingdom.
