@@ -1,5 +1,5 @@
 # Micro-Image
-Image analysis project for an internal company hackathon in December 2022 orgainsed within Illumina Singapore.
+Image analysis project for an internal company hackathon in December 2022.
 
 # Summary
 Our team wanted to make something useful for the reagent technicians to analyse the coating efficiency of microbeads (dry reagent particles, a bit like instant coffee granules, except they need to be coated with a protective inert substance)
