@@ -1,4 +1,4 @@
-# Micro-Image
+# Python dashboard
 Image analysis project for an internal company hackathon in December 2022.
 
 # Summary
@@ -13,15 +13,12 @@ We produce a desktop application that can annotate/analyse microbeads images, co
 This windows application is lightweight (100mb), and uses scikit learn algorithms to analyse both optical microscope images (colored) and scanning electron microscope (SEM) images.
 
 # Roles 
-Cao Fan (algorithm developer): wrote the core plotting function (the `.ipynb`) with scikit-learn
-
+Guo-Liang: wrote the original version of the image analysis algorithm
+Cao Fan: wrote a newer version of the core plotting function (the `.ipynb`) with scikit-learn
 __Me__ (__Jia Geng__, data dashboard developer): developed the user interface of our desktop application with dash/plotly
-
-Daniel Martana (mentor developer): guided and provided Jia Geng with the dash/plotly template, presenter
-
-Claire Tang (data provider): provided us with imaging samples
-
-Johan Basuki: team lead
+Daniel: guided and provided Jia Geng with the dash/plotly template, presenter
+Claire: collected imaging samples and relayed it to us developers
+Johan: team lead
 
 # Demo 1: Analysis of optical microscope images 
 ![](https://github.com/JiaGengChang/microimage/blob/main/micro-image-optical-demo.gif)
@@ -38,4 +35,4 @@ Johan Basuki: team lead
 
 We won third place among 15 teams!
 
-This internal tool is currently in use by our imaging technicians over at Hayward, Cambridge, United Kingdom.
+This internal tool is currently in use by imaging technicians over in the United Kingdom.
